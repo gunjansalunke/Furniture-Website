@@ -1,4 +1,4 @@
-Furniture Website
+Furniture Website =>
 A responsive and modern furniture website built using HTML, CSS, and Bootstrap. This project showcases a visually appealing and functional website for a furniture business, featuring product listings, galleries, and a clean layout. Key features include:
 Responsive Design: Fully responsive, ensuring optimal viewing on mobile, tablet, and desktop devices.
 Bootstrap Framework: Utilizes Bootstrap 5 for grid layout, responsive elements, and modern UI components.
